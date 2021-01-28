@@ -274,3 +274,10 @@ TSWLatexianTemp*
 
 # Makeindex log files
 *.lpz
+
+# Scientific Workplace 5 files
+*.aaa
+*.aab
+
+# Pdf output
+*.pdf
